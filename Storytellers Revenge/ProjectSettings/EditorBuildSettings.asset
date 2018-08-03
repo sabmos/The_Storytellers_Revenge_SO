@@ -6,6 +6,24 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/TitleScreen.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/RainbowScene.unity
+    guid: e0edf36c21abb441191ff5d630e7dc4e
+  - enabled: 1
+    path: Assets/Scenes/FerryScene.unity
+    guid: 8fb2da0bdd10c47bb9b33b32db3c888f
+  - enabled: 1
+    path: Assets/Scenes/CliffJumpScene.unity
+    guid: 6829d41574aba485392885b04dcc07b7
+  - enabled: 1
+    path: Assets/Scenes/FarScene.unity
+    guid: 56b3a7412a65b493eb022b5b94bba6d2
+  - enabled: 1
+    path: Assets/Scenes/QatarScene.unity
+    guid: 67c879c8aeeed429787098fe1089d406
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 16ec1e234bcf4441e850af913efcfc20
   m_configObjects: {}
